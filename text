@@ -1,0 +1,27 @@
+I began my tech career developing and improving warehouse processes at an eCommerce startup focused on high-end sneakers.
+
+My early analyst development was accelerated thanks to a rapidly growing company, powerful BI tools, and [for the most part] data-driven stakeholders. 
+
+Since nothing had yet been built in the way of analytics for operations leadership and their teams, I had to create my own internal 'startup' to meet their needs. 
+
+It was a lot like improving processes in a warehouse: 
+
+1. Unboxing, authenticating, packaging, and shipping processes are loosely analogous to the pieces of the data pipeline I helped build:
+
+Webapp Action -> RoR backend -> Lambda -> Redshift -> Sisense/Periscope/Grafana.
+
+2. The keys to making meaningful improvements are immersion in the process, attention to detail, and empathy.
+
+3. Customers, employees, and leaders all benefit from efficient processes, whether in a data warehouse or an actual warehouse.
+
+And speaking of warehouses, we went from 1 warehouse in 2016 to 9 warehouses in 2019. 
+
+That meant a lot of stakeholders, a lot of queries per hour, and the potential for a lot of waste unless there was someone ensuring that the data is free-flowing, quickly queryable, well-presented.  
+
+I got to be that person - but I literally could not have done it without my data engineers and clients. 
+
+During this experience, some of my hobbies included making simple iPhone apps, taking long bike-rides with friends, and generally enjoying the food in the Los Angeles area. 
+
+Since moving on from the role, I've become a father, worked in Ad-Tech, and moved the desert.
+
+My next step is to leverage my tech stack and project management accumen to help support small & growing businesses. 
